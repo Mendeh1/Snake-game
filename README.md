@@ -1,3 +1,4 @@
+![76cecf6b86ae119](https://github.com/Mendeh1/Snake-game/assets/91163094/187287e0-faf9-47b7-9a79-7d078f11c80e)
 
 <h1>Snake game rgb</h1>
 Inspired from @choidavid4.
